@@ -1,0 +1,16 @@
+body{
+	background:#1e3511;
+	text-align: center;
+	font-size: 1.5em;
+}
+div,form{
+	margin: 0 auto;
+}
+div{
+	height:200px;
+	background: #f8fafd;
+	width: 60%;
+}
+form{
+	width:100px;
+}
